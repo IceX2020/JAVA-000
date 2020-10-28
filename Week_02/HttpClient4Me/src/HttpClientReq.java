@@ -15,7 +15,7 @@ public class HttpClientReq {
 
     public static void main(String[] args) throws Exception {
         try (CloseableHttpClient httpclient = HttpClients.createDefault()) {
-            HttpGet httpget = new HttpGet("http://www.baidu.com");
+            HttpGet httpget = new HttpGet("http://127.0.0.1:8088/api/hello");
 
             System.out.println("Executing request " + httpget.getMethod() + " " + httpget.getUri());
 

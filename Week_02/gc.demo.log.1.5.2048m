@@ -1,0 +1,9 @@
+Java HotSpot(TM) 64-Bit Server VM (25.162-b12) for windows-amd64 JRE (1.8.0_162-b12), built on Dec 19 2017 20:00:03 by "java_re" with MS VC++ 10.0 (VS2010)
+Memory: 4k page, physical 8227556k(3042360k free), swap 11373284k(3987944k free)
+CommandLine flags: -XX:InitialHeapSize=2147483648 -XX:MaxHeapSize=2147483648 -XX:+PrintGC -XX:+PrintGCDateStamps -XX:+PrintGCTimeStamps -XX:+UseCompressedClassPointers -XX:+UseCompressedOops -XX:+UseG1GC -XX:-UseLargePagesIndividualAllocation 
+2020-10-28T15:05:49.411+0800: 0.278: [GC pause (G1 Evacuation Pause) (young) 132M->44M(2048M), 0.0089930 secs]
+2020-10-28T15:05:49.444+0800: 0.310: [GC pause (G1 Evacuation Pause) (young) 152M->82M(2048M), 0.0106159 secs]
+2020-10-28T15:05:49.482+0800: 0.349: [GC pause (G1 Evacuation Pause) (young) 194M->115M(2048M), 0.0103229 secs]
+2020-10-28T15:05:49.514+0800: 0.382: [GC pause (G1 Evacuation Pause) (young) 222M->146M(2048M), 0.0094744 secs]
+2020-10-28T15:05:49.556+0800: 0.423: [GC pause (G1 Evacuation Pause) (young) 276M->181M(2048M), 0.0113405 secs]
+2020-10-28T15:05:49.608+0800: 0.475: [GC pause (G1 Evacuation Pause) (young) 343M->226M(2048M), 0.0154736 secs]
