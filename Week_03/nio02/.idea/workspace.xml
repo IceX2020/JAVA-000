@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="504e0bf6-9fe2-44af-a6bd-70cd822642de" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/kimmking/gateway/inbound/HttpInboundHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/kimmking/gateway/inbound/HttpInboundHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/kimmking/gateway/outbound/okhttp/OkhttpOutboundHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/kimmking/gateway/outbound/okhttp/OkhttpOutboundHandler.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\programfiles\JetBrains\IntelliJIDEA\IntelliJIDEACommunity\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jjq66h6yXjyUFvYsbh3Hyh6l6O" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../study02/JAVA-000/Week_02/HttpClient4Me/lib" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="com.intellij.jarRepository.settings.RemoteRepositoriesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="io.github.kimmking.gateway.outbound.httpclient5" />
+      <recent name="io.github.kimmking.gateway.outbound.okhttp" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="NettyServerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.github.kimmking.gateway.NettyServerApplication" />
+      <module name="nio02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.github.kimmking.gateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NettyServerApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\fan_v\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="504e0bf6-9fe2-44af-a6bd-70cd822642de" name="Default Changelist" comment="" />
+      <created>1604327671836</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604327671836</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="521" y="212" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604368154695">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="521" y="212" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1604368154695" />
+    <state x="574" y="117" key="#com.intellij.ide.util.MemberChooser" timestamp="1604338250747">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="117" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1604338250747" />
+    <state x="499" y="158" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1604370122919">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="158" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1536.824@0.0.1536.824" timestamp="1604370122919" />
+    <state x="445" y="153" key="FileChooserDialogImpl" timestamp="1604368728852">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="445" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1604368728852" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1604372756684">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604372756684" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1604372756684">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1604372756684" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1604372756684">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1604372756684" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1604372756684">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1604372756684" />
+    <state width="1493" height="196" key="GridCell.Tab.1.bottom" timestamp="1604364337344">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="196" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604364337344" />
+    <state width="1493" height="196" key="GridCell.Tab.1.center" timestamp="1604364337343">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="196" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1604364337343" />
+    <state width="1493" height="196" key="GridCell.Tab.1.left" timestamp="1604364337342">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="196" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1604364337342" />
+    <state width="1493" height="196" key="GridCell.Tab.1.right" timestamp="1604364337344">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="196" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1604364337344" />
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog" timestamp="1604368338564">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1604368338564" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1604368735673">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1604368735673" />
+    <state x="467" y="115" width="602" height="594" key="find.popup" timestamp="1604369249141">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="467" y="115" width="602" height="594" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1604369249141" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/io/github/kimmking/gateway/outbound/okhttp/OkhttpOutboundHandler.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/io/github/kimmking/gateway/outbound/okhttp/OkhttpOutboundHandler.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
