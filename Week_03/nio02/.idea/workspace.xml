@@ -7,12 +7,21 @@
     <list default="true" id="504e0bf6-9fe2-44af-a6bd-70cd822642de" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/io/github/kimmking/gateway/inbound/HttpInboundHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/kimmking/gateway/inbound/HttpInboundHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/kimmking/gateway/outbound/okhttp/OkhttpOutboundHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/kimmking/gateway/outbound/okhttp/OkhttpOutboundHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/kimmking/gateway/outbound/httpclient4/HttpOutboundHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/kimmking/gateway/outbound/httpclient4/HttpOutboundHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/kimmking/gateway/outbound/netty4/NettyHttpClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/kimmking/gateway/outbound/netty4/NettyHttpClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/kimmking/gateway/outbound/okhttp/OkhttpOutboundHandler.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
@@ -43,8 +52,24 @@
       <recent name="io.github.kimmking.gateway.outbound.httpclient5" />
       <recent name="io.github.kimmking.gateway.outbound.okhttp" />
     </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="io.github.kimmking.gateway.filter" />
+    </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.NettyHttpClient">
+    <configuration name="NettyHttpClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.github.kimmking.gateway.outbound.netty4.NettyHttpClient" />
+      <module name="nio02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.github.kimmking.gateway.outbound.netty4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="NettyServerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="io.github.kimmking.gateway.NettyServerApplication" />
       <module name="nio02" />
@@ -60,6 +85,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NettyHttpClient" />
         <item itemvalue="Application.NettyServerApplication" />
       </list>
     </recent_temporary>
@@ -83,10 +109,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="521" y="212" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1604368154695" />
-    <state x="574" y="117" key="#com.intellij.ide.util.MemberChooser" timestamp="1604338250747">
+    <state x="574" y="117" key="#com.intellij.ide.util.MemberChooser" timestamp="1604377884203">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="574" y="117" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1604338250747" />
+    <state x="574" y="117" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1604377884203" />
+    <state x="499" y="188" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1604377845559">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="188" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1604377845559" />
     <state x="499" y="158" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1604370122919">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -95,22 +125,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="445" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1604368728852" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1604372756684">
+    <state width="1493" height="280" key="GridCell.Tab.0.bottom" timestamp="1604425536718">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604372756684" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1604372756684">
+    <state width="1493" height="280" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604425536718" />
+    <state width="1493" height="280" key="GridCell.Tab.0.center" timestamp="1604425536718">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1604372756684" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1604372756684">
+    <state width="1493" height="280" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1604425536718" />
+    <state width="1493" height="280" key="GridCell.Tab.0.left" timestamp="1604425536718">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1604372756684" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1604372756684">
+    <state width="1493" height="280" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1604425536718" />
+    <state width="1493" height="280" key="GridCell.Tab.0.right" timestamp="1604425536718">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1604372756684" />
+    <state width="1493" height="280" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1604425536718" />
     <state width="1493" height="196" key="GridCell.Tab.1.bottom" timestamp="1604364337344">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -139,6 +169,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="467" y="115" width="602" height="594" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1604369249141" />
+    <state x="549" y="157" key="refactoring.ChangeSignatureDialog" timestamp="1604378377169">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="157" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1604378377169" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
