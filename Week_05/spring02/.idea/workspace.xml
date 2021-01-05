@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8faea0a4-fe72-4bf0-a577-1528de11ec68" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Week_03/nio02/target/classes/io/github/kimmking/gateway/NettyServerApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_03/nio02/target/classes/io/github/kimmking/gateway/NettyServerApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_03/nio02/target/classes/io/github/kimmking/gateway/filter/Http4InboundFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_03/nio02/target/classes/io/github/kimmking/gateway/filter/Http4InboundFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_03/nio02/target/classes/io/github/kimmking/gateway/filter/HttpRequestFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_03/nio02/target/classes/io/github/kimmking/gateway/filter/HttpRequestFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_03/nio02/target/classes/io/github/kimmking/gateway/inbound/HttpInboundHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_03/nio02/target/classes/io/github/kimmking/gateway/inbound/HttpInboundHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_03/nio02/target/classes/io/github/kimmking/gateway/inbound/HttpInboundServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_03/nio02/target/classes/io/github/kimmking/gateway/inbound/HttpInboundServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_03/nio02/target/classes/io/github/kimmking/gateway/outbound/httpclient4/HttpOutboundHandler$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_03/nio02/target/classes/io/github/kimmking/gateway/outbound/httpclient4/HttpOutboundHandler$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_03/nio02/target/classes/io/github/kimmking/gateway/outbound/httpclient4/HttpOutboundHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_03/nio02/target/classes/io/github/kimmking/gateway/outbound/httpclient4/HttpOutboundHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_03/nio02/target/classes/io/github/kimmking/gateway/outbound/httpclient4/NamedThreadFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_03/nio02/target/classes/io/github/kimmking/gateway/outbound/httpclient4/NamedThreadFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_03/nio02/target/classes/io/github/kimmking/gateway/outbound/httpclient5/Http5OutboundHandler$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_03/nio02/target/classes/io/github/kimmking/gateway/outbound/httpclient5/Http5OutboundHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_03/nio02/target/classes/io/github/kimmking/gateway/outbound/httpclient5/Http5OutboundHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_03/nio02/target/classes/io/github/kimmking/gateway/outbound/netty4/NettyHttpClient$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_03/nio02/target/classes/io/github/kimmking/gateway/outbound/netty4/NettyHttpClient$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_03/nio02/target/classes/io/github/kimmking/gateway/outbound/netty4/NettyHttpClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_03/nio02/target/classes/io/github/kimmking/gateway/outbound/netty4/NettyHttpClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_03/nio02/target/classes/io/github/kimmking/gateway/outbound/netty4/NettyHttpClientOutboundHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_03/nio02/target/classes/io/github/kimmking/gateway/outbound/netty4/NettyHttpClientOutboundHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_03/nio02/target/classes/io/github/kimmking/gateway/outbound/okhttp/OKNamedThreadFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_03/nio02/target/classes/io/github/kimmking/gateway/outbound/okhttp/OKNamedThreadFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_03/nio02/target/classes/io/github/kimmking/gateway/outbound/okhttp/OkhttpOutboundHandler$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_03/nio02/target/classes/io/github/kimmking/gateway/outbound/okhttp/OkhttpOutboundHandler$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_03/nio02/target/classes/io/github/kimmking/gateway/outbound/okhttp/OkhttpOutboundHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_03/nio02/target/classes/io/github/kimmking/gateway/outbound/okhttp/OkhttpOutboundHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_03/nio02/target/classes/io/github/kimmking/gateway/router/HttpEndpointRouter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_03/nio02/target/classes/io/github/kimmking/gateway/router/HttpEndpointRouter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0301/DaemonThread$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0301/DaemonThread$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0301/DaemonThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0301/DaemonThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0301/Runner1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0301/Runner1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0301/Runner2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0301/Runner2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0301/RunnerMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0301/RunnerMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0301/ThreadA.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0301/ThreadA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0301/ThreadB.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0301/ThreadB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0301/ThreadC.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0301/ThreadC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0301/ThreadMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0301/ThreadMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0301/ThreadMain2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0301/ThreadMain2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0301/op/Join.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0301/op/Join.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0301/op/MethodClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0301/op/MethodClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0301/op/MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0301/op/MyThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0301/op/WaitAndNotify.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0301/op/WaitAndNotify.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0301/sync/Counter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0301/sync/Counter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0301/sync/Cref.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0301/sync/Cref.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0301/sync/Thread1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0301/sync/Thread1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0301/sync/Thread2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0301/sync/Thread2$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0301/sync/Thread2$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0301/sync/Thread2$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0301/sync/Thread2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0301/sync/Thread2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0301/sync/Thread3$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0301/sync/Thread3$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0301/sync/Thread3$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0301/sync/Thread3$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0301/sync/Thread3$Inner.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0301/sync/Thread3$Inner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0301/sync/Thread3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0301/sync/Thread3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0302/atomic/AtomicCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0302/atomic/AtomicCount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0302/atomic/AtomicMain$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0302/atomic/AtomicMain$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0302/atomic/AtomicMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0302/atomic/AtomicMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0302/atomic/Count.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0302/atomic/Count.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0302/atomic/LongDemo$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0302/atomic/LongDemo$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0302/atomic/LongDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0302/atomic/LongDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0302/atomic/SyncCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0302/atomic/SyncCount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0302/lock/ConditionDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0302/lock/ConditionDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0302/lock/Count.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0302/lock/Count.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0302/lock/Count2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0302/lock/Count2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0302/lock/Count3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0302/lock/Count3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0302/lock/LockMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0302/lock/LockMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0302/lock/LockSupportDemo$ChangeObjectThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0302/lock/LockSupportDemo$ChangeObjectThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0302/lock/LockSupportDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0302/lock/LockSupportDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0302/lock/ObjectCache$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0302/lock/ObjectCache$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0302/lock/ObjectCache$ObjectFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0302/lock/ObjectCache$ObjectFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0302/lock/ObjectCache.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0302/lock/ObjectCache.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0302/lock/ReentrantLockDemo$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0302/lock/ReentrantLockDemo$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0302/lock/ReentrantLockDemo$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0302/lock/ReentrantLockDemo$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0302/lock/ReentrantLockDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0302/lock/ReentrantLockDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0302/lock/ReentrantReadWriteLockDemo$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0302/lock/ReentrantReadWriteLockDemo$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0302/lock/ReentrantReadWriteLockDemo$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0302/lock/ReentrantReadWriteLockDemo$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0302/lock/ReentrantReadWriteLockDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0302/lock/ReentrantReadWriteLockDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0302/lock/ReentrantReadWriteLockDemo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0302/lock/ReentrantReadWriteLockDemo2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0302/lock/ThreadA.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0302/lock/ThreadA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0302/lock/ThreadB.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0302/lock/ThreadB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0302/threadpool/ExecutorServiceDemo$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0302/threadpool/ExecutorServiceDemo$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0302/threadpool/ExecutorServiceDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0302/threadpool/ExecutorServiceDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0302/threadpool/NewCachedThreadPoolDemo$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0302/threadpool/NewCachedThreadPoolDemo$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0302/threadpool/NewCachedThreadPoolDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0302/threadpool/NewCachedThreadPoolDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0302/threadpool/NewFixedThreadExecutorDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0302/threadpool/NewFixedThreadExecutorDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0302/threadpool/NewScheduledThreadExecutorDemo$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0302/threadpool/NewScheduledThreadExecutorDemo$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0302/threadpool/NewScheduledThreadExecutorDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0302/threadpool/NewScheduledThreadExecutorDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0302/threadpool/NewSingleThreadExecutorDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0302/threadpool/NewSingleThreadExecutorDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/Homework03.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/Homework03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/Homework03_01$readNum.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/Homework03_01$readNum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/Homework03_01.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/Homework03_01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/Homework03_02$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/Homework03_02$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/Homework03_02$readNum.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/Homework03_02$readNum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/Homework03_02.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/Homework03_02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/Homework03_03$Worker.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/Homework03_03$Worker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/Homework03_03.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/Homework03_03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/collection/ConcurrentHashMapDemo$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/collection/ConcurrentHashMapDemo$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/collection/ConcurrentHashMapDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/collection/ConcurrentHashMapDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/collection/CopyOnWriteArrayListDemo$T1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/collection/CopyOnWriteArrayListDemo$T1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/collection/CopyOnWriteArrayListDemo$T2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/collection/CopyOnWriteArrayListDemo$T2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/collection/CopyOnWriteArrayListDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/collection/CopyOnWriteArrayListDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/collection/CopyOnWriteArrayListDemo1$ListReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/collection/CopyOnWriteArrayListDemo1$ListReader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/collection/CopyOnWriteArrayListDemo1$ListWriter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/collection/CopyOnWriteArrayListDemo1$ListWriter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/collection/CopyOnWriteArrayListDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/collection/CopyOnWriteArrayListDemo1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/collection/CopyOnWriteArrayListDemo2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/collection/CopyOnWriteArrayListDemo2$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/collection/CopyOnWriteArrayListDemo2$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/collection/CopyOnWriteArrayListDemo2$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/collection/CopyOnWriteArrayListDemo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/collection/CopyOnWriteArrayListDemo2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/collection/LinkedHashMapDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/collection/LinkedHashMapDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/collection/SyncListDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/collection/SyncListDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/collection/TreeMapDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/collection/TreeMapDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/future/CompletableFutureDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/future/CompletableFutureDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/future/FutureDemo1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/future/FutureDemo1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/future/FutureDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/future/FutureDemo1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/future/FutureTask1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/future/FutureTask1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/future/FutureTask1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/future/FutureTask1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/stream/StreamParallelDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/stream/StreamParallelDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/threadlocal/ThreadLocalDemo$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/threadlocal/ThreadLocalDemo$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/threadlocal/ThreadLocalDemo$SnThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/threadlocal/ThreadLocalDemo$SnThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/threadlocal/ThreadLocalDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/threadlocal/ThreadLocalDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/tool/CountDownLatchDemo$readNum.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/tool/CountDownLatchDemo$readNum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/tool/CountDownLatchDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/tool/CountDownLatchDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/tool/CountDownLatchDemo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/tool/CountDownLatchDemo2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/tool/CyclicBarrierDemo$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/tool/CyclicBarrierDemo$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/tool/CyclicBarrierDemo$readNum.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/tool/CyclicBarrierDemo$readNum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/tool/CyclicBarrierDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/tool/CyclicBarrierDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/tool/CyclicBarrierDemo2$Writer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/tool/CyclicBarrierDemo2$Writer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/tool/CyclicBarrierDemo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/tool/CyclicBarrierDemo2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/tool/SemaphoreDemo$Worker.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/tool/SemaphoreDemo$Worker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/tool/SemaphoreDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/tool/SemaphoreDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/tool/SemaphoreDemo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/tool/SemaphoreDemo2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/tool/SemaphoreDemo3$Consumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/tool/SemaphoreDemo3$Consumer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/tool/SemaphoreDemo3$Producer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/tool/SemaphoreDemo3$Producer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/tool/SemaphoreDemo3$Warehouse.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/tool/SemaphoreDemo3$Warehouse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/tool/SemaphoreDemo3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week_04/0301/target/classes/java0/conc0303/tool/SemaphoreDemo3.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\programfiles\JetBrains\IntelliJIDEA\IntelliJIDEACommunity\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kTKys1V5aOFvhvPx01TT4jukVB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/io/kimmking" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="JUnit.CDPlayerTest">
+    <configuration name="CDPlayerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring02" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CDPlayerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CDPlayerTest.cdShouldNotBeNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring02" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CDPlayerTest" />
+      <option name="METHOD_NAME" value="cdShouldNotBeNull" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CDPlayerTest.play" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring02" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CDPlayerTest" />
+      <option name="METHOD_NAME" value="play" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CDPlayerTest" />
+        <item itemvalue="JUnit.CDPlayerTest.play" />
+        <item itemvalue="JUnit.CDPlayerTest.cdShouldNotBeNull" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8faea0a4-fe72-4bf0-a577-1528de11ec68" name="Default Changelist" comment="" />
+      <created>1605719400257</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605719400257</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1605719481280">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605719481280" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1605804155205">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605804155205" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1605804155205">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605804155205" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1605804155205">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605804155205" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1605804155205">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605804155205" />
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog" timestamp="1605719702560">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1605719702560" />
+    <state x="565" y="189" key="chooseDestDirectoryDialog" timestamp="1605723350685">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="565" y="189" key="chooseDestDirectoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1605723350685" />
+  </component>
+</project>

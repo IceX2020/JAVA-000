@@ -5,9 +5,9 @@ public class OneInsert {
 
     private static void addbyone() {
         String driverClassName = "com.mysql.jdbc.Driver";	//启动驱动
-        String url = "jdbc:mysql://localhost:3306/test_db";	//设置连接路径
-        String username = "root";	//数据库用户名
-        String password = "1qaz2wsx";	//数据库连接密码
+        String url = "jdbc:mysql://localhost:3307/sharding_db";	//设置连接路径
+        String username = "test";	//数据库用户名
+        String password = "test";	//数据库连接密码
         Connection con = null;		//连接
         PreparedStatement pstmt = null;	//使用预编译语句
         ResultSet rs = null;	//获取的结果集
@@ -44,13 +44,13 @@ public class OneInsert {
 
     private static void addbybatch() {
         String driverClassName = "com.mysql.jdbc.Driver";	//启动驱动
-        String url = "jdbc:mysql://localhost:3306/test_db";	//设置连接路径
-        String username = "root";	//数据库用户名
-        String password = "1qaz2wsx";	//数据库连接密码
+        String url = "jdbc:mysql://localhost:3307/sharding_db";	//设置连接路径
+        String username = "test";	//数据库用户名
+        String password = "test";	//数据库连接密码
         Connection con = null;		//连接
         PreparedStatement pstmt = null;	//使用预编译语句
         ResultSet rs = null;	//获取的结果集
-        for(int i=0;i<2000;i++) {
+        for(int i=0;i<2;i++) {
             try {
                 Class.forName(driverClassName); //执行驱动
                 con = DriverManager.getConnection(url, username, password); //获取连接
@@ -90,7 +90,7 @@ public class OneInsert {
 
     public static void main(String args[]){
         long startTime=System.currentTimeMillis();   //获取开始时间
-        addbybatch();  //程序运行时间:251512ms
+//        addbybatch();  //程序运行时间:251512ms
         addbyone();  //程序运行时间:2835155ms
 
         long endTime=System.currentTimeMillis(); //获取结束时间

@@ -1,5 +1,8 @@
 ***用户表:用户id、用户名称、密码、手机号、证件类型、证件号码、用户状态、创建时间、更新时间***   
-CREATE TABLE users (
+SET sql_mode = '';
+
+
+CREATE TABLE test_db.users (
   userid bigint NOT NULL AUTO_INCREMENT,
   name varchar(64) NOT NULL,
   password varchar(64) NOT NULL,
@@ -10,10 +13,10 @@ CREATE TABLE users (
   create_date timestamp NOT NULL,
   update_date timestamp NULL,
   PRIMARY KEY (userid)
-);
+)ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 ***店铺表：店铺id、名称、描述、店铺状态、创建时间、更新时间***   
-CREATE TABLE stores (
+CREATE TABLE test_db.stores (
     storeid int(11) NOT NULL AUTO_INCREMENT,
     storename varchar(64) NOT NULL,
     description varchar(1024) NOT NULL,
@@ -21,10 +24,10 @@ CREATE TABLE stores (
     create_date timestamp NOT NULL,
     update_date timestamp NULL,
     PRIMARY KEY (storeid)
-);
+)ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 ***商品表：商品id、名称、描述、价格、重量、所属店铺id、所属店铺名称、商品状态、创建时间、更新时间、生效时间、失效时间***   
-CREATE TABLE goods (
+CREATE TABLE test_db.goods (
     goodid int(11) NOT NULL AUTO_INCREMENT,
     goodname varchar(16) NOT NULL,
     description varchar(1024) NOT NULL,
@@ -37,20 +40,20 @@ CREATE TABLE goods (
     update_date timestamp NULL,
     good_effdate timestamp NOT NULL,
     good_expdate timestamp NOT NULL,
-    PRIMARY KEY (goodid),
-);
+    PRIMARY KEY (goodid)
+)ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 ***订单表:订单id、用户id、商品列表、订单状态、物流状态、物流单号、物流地址、总价、创建时间、更新时间***   
-CREATE TABLE orders (
+CREATE TABLE test_db.orders (
     orderid bigint NOT NULL AUTO_INCREMENT,
     user_id int(11) NOT NULL,
-    commodities varchar(10024) NOT NULL,
+    commodities varchar(4000) NOT NULL,
     order_status int(2) not null,
-    deliver_status varchar(10024) NOT NULL,
-    deliver_orderid varchar(10024) NULL,
-    deliver_addr varchar(10024) NULL,
+    deliver_status varchar(4000) NOT NULL,
+    deliver_orderid varchar(4000) NULL,
+    deliver_addr varchar(4000) NULL,
     total_price int(11) NOT NULL,
     create_date timestamp NOT NULL,
     update_date timestamp NULL,
-    PRIMARY KEY (orderid),
-);
+    PRIMARY KEY (orderid)
+)ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
